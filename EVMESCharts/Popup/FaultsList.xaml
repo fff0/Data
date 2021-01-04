@@ -1,0 +1,125 @@
+﻿<Window x:Class="EVMESCharts.Popup.FaultsList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EVMESCharts.Popup"
+        mc:Ignorable="d"
+        Title="告警详细信息" Height="600" Width="600">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="Width" Value="65" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="Height"  Value="30"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        <Style x:Key="ContentStyle" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment"            Value="Center" />
+            <Setter Property="VerticalAlignment"              Value="Center"/>
+            <Setter Property="TextWrapping"                   Value="Wrap"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="{Binding BgColor}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition />
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <!--标题区-->
+        <TextBlock Text="{Binding TableTitle}" FontSize="20" Foreground="{Binding FontColor}"/>
+
+        <!--表格区-->
+        <DataGrid x:Name="DataGrid" 
+                  Grid.Row="1"
+                  Grid.ColumnSpan="2"
+                  Background="Transparent" 
+                  HeadersVisibility="Column" 
+                  AutoGenerateColumns="False" 
+                  CanUserAddRows="False"
+                  VerticalGridLinesBrush="Transparent" 
+                  HorizontalGridLinesBrush="WhiteSmoke"
+                  BorderThickness="0" 
+                  ItemsSource="{Binding FaultList}"
+                  Margin="50 0">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="BorderThickness"                     Value="3"/>
+                    <Setter Property="VerticalAlignment"                   Value="Center"/>
+                    <Setter Property="HorizontalContentAlignment"          Value="Center"/>
+                    <Setter Property="Background"                          Value="Transparent"/>
+                    <Setter Property="Foreground"                          Value="Red"/>
+                    <Setter Property="FontWeight"                          Value="Bold"/>
+                    <Setter Property="Height"                              Value="50"/>
+                    <Setter Property="FontSize"                            Value="18"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="Height"                              Value="40"/>
+                    <Setter Property="Foreground"                          Value="Red"/>
+                    <Setter Property="Background"                          Value="#303153" />
+                    <Setter Property="HorizontalAlignment"                 Value="Center"/>
+                    <Setter Property="HorizontalContentAlignment"          Value="Center"/>
+                </Style>
+            </DataGrid.RowStyle>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="故障信息"
+                                    Width="2*"     
+                                    Binding="{Binding FaultName}"
+                                    ElementStyle="{StaticResource ContentStyle}"
+                                    IsReadOnly="True"
+                                    FontSize="16">
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="故障次数"
+                                    Width="2*"    
+                                    Binding="{Binding FaultNumber}" 
+                                    ElementStyle="{StaticResource ContentStyle}" 
+                                    IsReadOnly="True"
+                                    FontSize="16"/>
+                <DataGridTextColumn Header="所占比例"
+                                    Width="2*"    
+                                    Binding="{Binding Ratio}" 
+                                    ElementStyle="{StaticResource ContentStyle}" 
+                                    IsReadOnly="True"
+                                    FontSize="16"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+        <!--按钮区-->
+        <Grid Grid.Row="2">
+            <Button Click="OKClick"
+                    Name="btnAppend" 
+                    Grid.Row="3"
+                    Content="确定" 
+                    FontSize="20" 
+                    Width="250"
+                    Height="40">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background"         Value="#95c4ff"/>
+                        <Setter Property="Foreground"         Value="White"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver"   Value="true">
+                                <Setter Property="Background" Value="#4395ff"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="10" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

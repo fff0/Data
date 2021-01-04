@@ -1,0 +1,638 @@
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.pdb
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\zdh43\source\repos\EVMESCharts\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\NModbus.xml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\NModbus.Serial.xml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\Message.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\Message.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\System.Console.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\NModbus4.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\bin\Debug\NModbus4.xml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\NoData.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+C:\Users\zdh43\Desktop\EVCharts\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\NModbus4.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\System.Console.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\NModbus.xml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\NModbus.Serial.xml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\NModbus4.xml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\Message.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\NoData.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\Message.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.baml
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.g.cs
+C:\Users\zdh43\Desktop\EVMES\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\NModbus4.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\System.Console.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\NModbus.xml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\NModbus.Serial.xml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\NModbus4.xml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\Message.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\NoData.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\Message.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.baml
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\IEI\Desktop\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.pdb
+D:\MES\MES\MES\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+D:\MES\MES\MES\EVMESCharts\bin\Debug\EVMESCharts.exe
+D:\MES\MES\MES\EVMESCharts\bin\Debug\EVMESCharts.pdb
+D:\MES\MES\MES\EVMESCharts\bin\Debug\LiveCharts.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\NModbus4.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\System.Console.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\MES\MES\MES\EVMESCharts\bin\Debug\LiveCharts.pdb
+D:\MES\MES\MES\EVMESCharts\bin\Debug\LiveCharts.xml
+D:\MES\MES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+D:\MES\MES\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+D:\MES\MES\MES\EVMESCharts\bin\Debug\NModbus.xml
+D:\MES\MES\MES\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+D:\MES\MES\MES\EVMESCharts\bin\Debug\NModbus.Serial.xml
+D:\MES\MES\MES\EVMESCharts\bin\Debug\NModbus4.xml
+D:\MES\MES\MES\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+D:\MES\MES\MES\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\MainWindow.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\Message.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\App.g.cs
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\Home.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\NoData.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\MainWindow.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\Message.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.baml
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.exe
+D:\MES\MES\MES\EVMESCharts\obj\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\NModbus4.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\System.Console.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\NModbus.xml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\NModbus.Serial.xml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\NModbus4.xml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\Message.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\NoData.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\Message.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.baml
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\新建文件夹 (3)\MES\EVMESCharts\obj\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\NModbus4.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\System.Console.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\NModbus.xml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\NModbus.Serial.xml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\NModbus4.xml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\Message.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\NoData.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\ChartView\RunStatus.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\Message.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.baml
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\数据大屏\MES\EVMESCharts\obj\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\NModbus4.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\System.Console.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\NModbus.xml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\NModbus.Serial.xml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\NModbus4.xml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\RunStatus.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\Message.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\NoData.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\ChartView\RunStatus.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\Message.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.baml
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\数据大屏\新建文件夹\EVMES\EVMESCharts\obj\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\EVMESCharts.exe.config
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\EVMESCharts.pdb
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\LiveCharts.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\NModbus4.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\System.Console.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\System.Data.SQLite.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\LiveCharts.pdb
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\LiveCharts.xml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\NModbus.xml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\NModbus.Serial.pdb
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\NModbus.Serial.xml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\NModbus4.xml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\System.Data.SQLite.xml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csprojAssemblyReference.cache
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DataCharts.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DayChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DayReachChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\Home.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\MonthChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\NoData.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\RunStatus.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\MainWindow.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\AddEquipment.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\FaultsList.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\IPConfigure.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\Message.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\PlanPopup.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\TableList\DataTableView.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\TableList\HomeTableView.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\App.g.cs
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.cache
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts_MarkupCompile.lref
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\BreakDownPieChart.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DataCharts.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DayChart.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DayReachChart.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\DayYieldChart.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\Home.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\HomeDataTable.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\MonthChart.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\MonthReachChart.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\MonthYieldChart.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\NoData.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\ChartView\RunStatus.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\MainWindow.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\AddEquipment.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\AddGoodNumber.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\FaultsList.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\IPConfigure.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\Message.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\Popup\PlanPopup.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\TableList\DataTableView.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\TableList\HomeTableView.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\TableList\RunStatusTableView.baml
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.g.resources
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.Properties.Resources.resources
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csproj.GenerateResource.cache
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CoreCompileInputs.cache
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.csproj.CopyComplete
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.exe
+C:\Users\zdh43\Desktop\EVMES\EVMESCharts\obj\Debug\EVMESCharts.pdb

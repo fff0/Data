@@ -1,0 +1,306 @@
+﻿<UserControl x:Class="EVMESCharts.Charts.Home"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             xmlns:local="clr-namespace:EVMESCharts.Charts"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="600">
+
+    <UserControl.Resources>
+        <Style      x:Key="HomeRadioStyle"                    TargetType="RadioButton">
+            <Setter Property="Background"                     Value="#000"/>
+            <Setter Property="BorderThickness"                Value="0"/>
+            <Setter Property="FocusVisualStyle"               Value="{x:Null}"/>
+            <Setter Property="VerticalContentAlignment"       Value="Center"/>
+            <Setter Property="HorizontalContentAlignment"     Value="Center"/>
+            <Setter Property="Foreground"                     Value="#88949A"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="RadioButton">
+                        <Grid>
+                            <Border x:Name="border" 
+                                    Margin="20 0 20 0"/>
+                            <ContentPresenter x:Name="contentPresenter" 
+                                              Grid.Column="1" 
+                                              Focusable="False" 
+                                              HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              Margin="{TemplateBinding Padding}" 
+                                              RecognizesAccessKey="True" 
+                                              SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" 
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked"                Value="True">
+                                <Setter Property="Foreground"            Value="White"/>
+                                <Setter Property="Background"            Value="White"  />
+                            </Trigger>
+
+                            <Trigger Property="IsChecked"                Value="False">
+                                <Setter Property="Background"            Value="#ccc"  />
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Label" x:Key="tipLable">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Label}">
+                        <Grid>
+                            <Border CornerRadius="4" BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"  Background="#cbf8ff" Margin="0 8 0 0" HorizontalAlignment="Center" Padding="5">
+                                <ContentPresenter />
+                            </Border>
+                            <Canvas Width="10" Height="10" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="Transparent">
+                                <Path Stroke="Black" StrokeThickness="0.6" Fill="#cbf8ff">
+                                    <Path.Data>
+                                        <PathGeometry Figures="M 0,10 L 0,10,5,0 L 5,0,10,10"/>
+                                    </Path.Data>
+                                </Path>
+                            </Canvas>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="3*" />
+        </Grid.RowDefinitions>
+
+        <!--总达成率图表-->
+        <Border Background="{Binding BgColor}" CornerRadius="10" Margin="10 10 0 10">
+            <Border.Effect>
+                <DropShadowEffect Color="#ececec" BlurRadius="5" ShadowDepth="1" Opacity="1"/>
+            </Border.Effect>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+
+                <!--折线图标题-->
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="200"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!--标题-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="160"/>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding ChartTitle}"
+                                   VerticalAlignment="Center" 
+                                   FontSize="18" 
+                                   Margin="20 0 0 0"
+                                   Foreground="{Binding FontColor}"/>
+                        <Grid Grid.Column="1">
+                            <DatePicker x:Name="UserDataPicker"
+                                        Width="160" 
+                                        Height="25"
+                                        Background="{Binding BgColor}"
+                                        SelectedDateFormat="Short"
+                                        FirstDayOfWeek="Monday"
+                                        IsTodayHighlighted="True"
+                                        HorizontalAlignment="Left"
+                                        >
+                            </DatePicker>
+                            <Button Margin="170 0 0 0" 
+                                    Content="查询"
+                                    FontSize="16" 
+                                    Width="70" 
+                                    Height="30" 
+                                    HorizontalAlignment="Left"
+                                    Click="Query">
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Setter Property="Background"  Value="LightBlue"/>
+                                        <Setter Property="Foreground" Value="White"/>
+                                        <Style.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="true">
+                                                <Setter Property="Background" Value="#60acfc"/>
+                                            </Trigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+                                <Button.Template>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border CornerRadius="10" Background="{TemplateBinding Background}">
+                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Button.Template>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                    <!--弹框按钮-->
+                    <Grid Name="Switch" Width="67" Height="30" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="-35">
+                        <Button Margin="27 0 0 0"
+                                MouseEnter="SwitchMouseEnter"
+                                MouseLeave="SwitchMouseLeave"
+                                Click="SwitchClick"
+                                Background="{Binding BgColor}"
+                                BorderBrush="{Binding BgColor}"
+                                Foreground="{Binding FontColor}">
+                            <Grid>
+                                <TextBlock Text="&#xe622;" 
+                                       FontSize="22" 
+                                       FontFamily="../Fonts/#iconfont"/>
+                            </Grid>
+
+                        </Button>
+                        <Popup Name="Switchpop" 
+                               AllowsTransparency="True" 
+                               StaysOpen="True" 
+                               PopupAnimation="Fade" 
+                               IsOpen="{Binding SwitchIsOpen}"
+                               PlacementTarget="{Binding ElementName=Switch}" 
+                               Placement="Bottom">
+                            <Label Style="{StaticResource tipLable}">
+                                <StackPanel Orientation="Horizontal">
+                                    <Label Content="切换图表显示" Background="#cbf8ff" />
+                                </StackPanel>
+                            </Label>
+                        </Popup>
+                    </Grid>
+
+                    <!--按钮切换-->
+                    <Grid Grid.Column="1">
+                        <UniformGrid Columns="2"
+                                     Grid.Column="1" 
+                                     Background="{Binding BgColor}"
+                                     Margin="40 5 40 0">
+
+                            <!--日点击按钮-->
+                            <RadioButton IsChecked="True"  
+                                         Name="day"  
+                                         Style="{StaticResource HomeRadioStyle}" 
+                                         Checked="DayChecked">
+                                <StackPanel Orientation="Horizontal" 
+                                            Width="60" 
+                                            Height="35">
+                                    <Border Background="{Binding DayBackcolor}" 
+                                            CornerRadius="20 0 0 20" >
+                                        <Border.Effect>
+                                            <DropShadowEffect Color="#ececec" 
+                                                              BlurRadius="5"  
+                                                              ShadowDepth="1" 
+                                                              Opacity="1"/>
+                                        </Border.Effect>
+                                        <TextBlock Text="日" 
+                                                   Padding="30 5 0 0" 
+                                                   FontSize="18"
+                                                   Width="60" 
+                                                   Height="35"/>
+                                    </Border>
+                                </StackPanel>
+                            </RadioButton>
+
+                            <!--月点击按钮-->
+                            <RadioButton Name="Month" 
+                                         Style="{StaticResource HomeRadioStyle}" 
+                                         Checked="MonthChecked">
+                                <StackPanel Orientation="Horizontal" 
+                                            Width="60" 
+                                            Height="35">
+
+                                    <Border Background="{Binding MonthBackcolor}" 
+                                            CornerRadius="0 20 20 0" >
+                                        <Border.Effect>
+                                            <DropShadowEffect Color="#ececec"  
+                                                              BlurRadius="5" 
+                                                              ShadowDepth="1" 
+                                                              Opacity="1"/>
+                                        </Border.Effect>
+                                        <TextBlock Text="月"
+                                                   Padding="15 5 0 0" 
+                                                   FontSize="18" 
+                                                   Width="60"
+                                                   Height="35"/>
+                                    </Border>
+                                </StackPanel>
+                            </RadioButton>
+                        </UniformGrid>
+                    </Grid>
+                </Grid>
+
+                <!--折线图图表-->
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="211*"/>
+                        <ColumnDefinition Width="84*"/>
+                    </Grid.ColumnDefinitions>
+                    <ContentPresenter  Content="{Binding ReachCharts}" Grid.ColumnSpan="2"/>
+                </Grid>
+            </Grid>
+        </Border>
+
+
+        <!--良率设备信息列表-->
+        <Grid Grid.Row="1">
+            <Border Background="{Binding BgColor}"  CornerRadius="10"  Margin="10 10 0 10">
+                <Border.Effect>
+                    <DropShadowEffect Color="#ececec" BlurRadius="5" ShadowDepth="1" Opacity="1"/>
+                </Border.Effect>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <Button Content="填写良品数据"
+                            FontSize="16" 
+                            Width="120" 
+                            Height="30" 
+                            HorizontalAlignment="Right"
+                            Margin="0 0 40 0"
+                            Click="AddGoodClick">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background"  Value="LightBlue"/>
+                                <Setter Property="Foreground" Value="White"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="true">
+                                        <Setter Property="Background" Value="#60acfc"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border CornerRadius="10" Background="{TemplateBinding Background}">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!--设备信息标题-->
+                    <StackPanel Orientation="Horizontal"  
+                                Margin="20 0 0 0">
+                        <TextBlock  Text="&#xe659;" 
+                                    FontSize="20" 
+                                    FontFamily="../Fonts/#iconfont" 
+                                    VerticalAlignment="Center"
+                                    Foreground="{Binding FontColor}"/>
+                        <TextBlock  Margin="10 0 0 0" 
+                                    Text="详细信息" FontSize="18" 
+                                    VerticalAlignment="Center"
+                                    Foreground="{Binding FontColor}"/>
+                    </StackPanel>
+
+                    <!--详细信息列表-->
+                    <ContentPresenter Grid.Row="1"  Content="{Binding UserTable}"/>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

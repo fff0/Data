@@ -1,0 +1,321 @@
+﻿<UserControl x:Class="EVMESCharts.TableList.HomeTableView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EVMESCharts.TableList"
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="{Binding BgColor}" />
+            <Setter Property="BorderBrush" Value="{Binding BgColor}" />
+            <Setter Property="Foreground" Value="{Binding FontColor}" />
+        </Style>
+        <Style TargetType="Label" x:Key="tipLable">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Label}">
+                        <Grid>
+                            <Border CornerRadius="4" BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"  Background="#cbf8ff" Margin="0 8 0 0" HorizontalAlignment="Center" Padding="5">
+                                <ContentPresenter />
+                            </Border>
+                            <Canvas Width="10" Height="10" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="Transparent">
+                                <Path Stroke="Black" StrokeThickness="0.6" Fill="#cbf8ff">
+                                    <Path.Data>
+                                        <PathGeometry Figures="M 0,10 L 0,10,5,0 L 5,0,10,10"/>
+                                    </Path.Data>
+                                </Path>
+                            </Canvas>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ContentStyle" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment"            Value="Center" />
+            <Setter Property="VerticalAlignment"              Value="Center"/>
+            <Setter Property="TextWrapping"                   Value="Wrap"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="Background" Value="#c0c0c0"/>
+        </Style>
+        <Style x:Key="HomeRadioStyle" TargetType="RadioButton">
+            <Setter Property="Background"                     Value="#000"/>
+            <Setter Property="BorderThickness"                Value="0"/>
+            <Setter Property="FocusVisualStyle"               Value="{x:Null}"/>
+            <Setter Property="VerticalContentAlignment"       Value="Center"/>
+            <Setter Property="HorizontalContentAlignment"     Value="Center"/>
+            <Setter Property="Foreground"                     Value="#000"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="RadioButton">
+                        <Grid>
+                            <Border x:Name="border" 
+                                    Margin="20 0 20 0"/>
+                            <ContentPresenter x:Name="contentPresenter" 
+                                              Grid.Column="1" 
+                                              Focusable="False" 
+                                              HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              Margin="{TemplateBinding Padding}" 
+                                              RecognizesAccessKey="True" 
+                                              SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" 
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter Property="Foreground"            Value="White"/>
+                                <Setter Property="Background"            Value="White"  />
+                            </Trigger>
+
+                            <Trigger Property="IsChecked"                Value="False">
+                                <Setter Property="Background"            Value="#ccc"  />
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <!--设备日志-->
+        <Grid Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="2" />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <!--标题区（设备日志）-->
+            <StackPanel Orientation="Horizontal" Margin="10 0 0 0">
+                <TextBlock Text="&#xe6b7;" 
+                           FontSize="22" 
+                           FontFamily="../Fonts/#iconfont" 
+                           Foreground="{Binding FontColor}"/>
+                <TextBlock Text="日志信息" 
+                           FontSize="18" 
+                           Margin="10 0 0 0" 
+                           Foreground="{Binding FontColor}"/>
+            </StackPanel>
+
+            <!--分割线-->
+            <Label Grid.Row="1" Margin="10 0 10 0"></Label>
+
+            <!--表格展示区-->
+            <Border Grid.Row="2"  Background="White"  Margin="10 0 0 0">
+                <Border.Effect>
+                    <DropShadowEffect Color="#ececec"   BlurRadius="5"  ShadowDepth="1"  Opacity="1"/>
+                </Border.Effect>
+                <DataGrid x:Name="DataGrid" 
+                          Background= "#303153" 
+                          HeadersVisibility="Column" 
+                          AutoGenerateColumns="False" 
+                          CanUserAddRows="False"
+                          VerticalGridLinesBrush="Transparent" 
+                          HorizontalGridLinesBrush="WhiteSmoke"
+                          BorderThickness="0" 
+                          ItemsSource="{Binding UserWarningList}">
+                    <DataGrid.ColumnHeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="BorderThickness"                     Value="0"/>
+                            <Setter Property="VerticalAlignment"                   Value="Center"/>
+                            <Setter Property="HorizontalContentAlignment"          Value="Center"/>
+                            <Setter Property="Background"                          Value="#3c3d59"/>
+                            <Setter Property="Foreground"                          Value="#fff"/>
+                            <Setter Property="FontWeight"                          Value="Bold"/>
+                            <Setter Property="Height"                              Value="35"/>
+                        </Style>
+                    </DataGrid.ColumnHeaderStyle>
+
+                    <DataGrid.RowStyle>
+                        <Style TargetType="DataGridRow">
+                            <Setter Property="Height"                              Value="40"/>
+                            <Setter Property="Foreground"                          Value="#fff"/>
+                            <Setter Property="Background"                          Value="#303153" />
+                            <Setter Property="HorizontalAlignment"                 Value="Center"/>
+                            <Setter Property="HorizontalContentAlignment"          Value="Center"/>
+                        </Style>
+                    </DataGrid.RowStyle>
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="时间"
+                                            Width="*"  
+                                            Binding="{Binding Time}"   
+                                            ElementStyle="{StaticResource ContentStyle}"  
+                                            IsReadOnly="True" 
+                                            SortDirection="Descending"/>
+                        <DataGridTextColumn Header="信息"
+                                            Width="2*"     
+                                            Binding="{Binding Device}"
+                                            ElementStyle="{StaticResource ContentStyle}"
+                                            IsReadOnly="True"/>
+                        <DataGridTextColumn Header="内容"
+                                            Width="3*"    
+                                            Binding="{Binding Content}" 
+                                            ElementStyle="{StaticResource ContentStyle}" 
+                                            IsReadOnly="True"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Border>
+            <Border Background="{Binding BgColor}" CornerRadius="10" Margin="10 10 0 5"  Grid.Row="3">
+                <Border.Effect>
+                    <DropShadowEffect Color="#ececec"   BlurRadius="5"  ShadowDepth="1"  Opacity="1"/>
+                </Border.Effect>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="1" />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <!--标题区-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition Width="140"/>
+                        </Grid.ColumnDefinitions>
+                        
+                        <StackPanel Orientation="Horizontal" 
+                                    Margin="20 0 0 0">
+                            <TextBlock  Text="&#xe625;" 
+                                        FontSize="20" 
+                                        FontFamily="../Fonts/#iconfont" 
+                                        VerticalAlignment="Center"
+                                        Foreground="{Binding FontColor}"/>
+                            <TextBlock  Margin="10 0 0 0" 
+                                        Text="设备故障率" 
+                                        FontSize="18"  
+                                        VerticalAlignment="Center"
+                                        Foreground="{Binding FontColor}"/>
+                        </StackPanel>
+
+                        <Grid Grid.Column="1"  Margin="0 0 20 0">
+                            <UniformGrid Columns="3"
+                                         Grid.Column="1" 
+                                         Background="{Binding BgColor}" >
+
+                                <!--小时点击按钮-->
+                                <RadioButton IsChecked="True"  
+                                             Name="Hour"  
+                                             Style="{StaticResource HomeRadioStyle}"
+                                             Checked="Hour_Checked">
+                                    <StackPanel Orientation="Horizontal" 
+                                                Width="40"
+                                                Height="25">
+                                        <Border Background="{Binding HourBackcolor}" 
+                                                CornerRadius="12 0 0 12" >
+                                            <Border.Effect>
+                                                <DropShadowEffect Color="#ececec"  
+                                                                  BlurRadius="5" 
+                                                                  ShadowDepth="1" 
+                                                                  Opacity="1"/>
+                                            </Border.Effect>
+                                            <TextBlock Text="小时"
+                                                       Padding="8 4 0 0"
+                                                       FontSize="12" 
+                                                       Width="40"
+                                                       Height="25"/>
+                                        </Border>
+                                    </StackPanel>
+                                </RadioButton>
+                                <!--日点击按钮-->
+                                <RadioButton Name="day"  
+                                             Style="{StaticResource HomeRadioStyle}" 
+                                             Checked="Day_Checked">
+                                    <StackPanel Orientation="Horizontal" 
+                                                Width="40" 
+                                                Height="25">
+                                        
+                                        <Border Background="{Binding DayBackcolor}" 
+                                                CornerRadius="0" >
+                                            <Border.Effect>
+                                                <DropShadowEffect Color="#ececec" 
+                                                                  BlurRadius="5" 
+                                                                  ShadowDepth="1" 
+                                                                  Opacity="1"/>
+                                            </Border.Effect>
+                                            <TextBlock Text="日" 
+                                                       Padding="12 4 0 0" 
+                                                       FontSize="12" 
+                                                       Width="40" 
+                                                       Height="25"/>
+                                        </Border>
+                                    </StackPanel>
+                                </RadioButton>
+
+                                <!--月点击按钮-->
+                                <RadioButton   Name="Month" 
+                                               Style="{StaticResource HomeRadioStyle}" 
+                                               Checked="Month_Checked">
+                                    <StackPanel Orientation="Horizontal" 
+                                                Width="40" 
+                                                Height="25">
+
+                                        <Border Background="{Binding MonthBackcolor}" 
+                                                CornerRadius="0 12 12 0" >
+                                            <Border.Effect>
+                                                <DropShadowEffect Color="#ececec"  
+                                                                  BlurRadius="5" 
+                                                                  ShadowDepth="1" 
+                                                                  Opacity="1"/>
+                                            </Border.Effect>
+                                            <TextBlock Text="月" 
+                                                       Padding="12 4 0 0"  
+                                                       FontSize="12" 
+                                                       Width="40"
+                                                       Height="25"/>
+                                        </Border>
+                                    </StackPanel>
+                                </RadioButton>
+                            </UniformGrid>
+                        </Grid>
+                    </Grid>
+                    
+                    <!--分割线-->
+                    <Label Grid.Row="1" Margin="0 0 10 0"></Label>
+
+                    
+                    <!--饼状图图表显示-->
+                    <Grid Grid.Row="2" Margin="20">
+                        
+                        <Grid Name="All" 
+                              Width="68" 
+                              Height="40" 
+                              VerticalAlignment="Top" 
+                              HorizontalAlignment="Right" 
+                              Margin="0 -15 0 0"
+                              Panel.ZIndex="99">
+                            <Button Margin="28 0 0 0"
+                                    MouseEnter="AllMouseEnter"
+                                    MouseLeave="AllMouseLeave"
+                                    Click="AllClick">
+                                <TextBlock Text="&#xe629;" 
+                                           FontSize="22" 
+                                           FontFamily="../Fonts/#iconfont"/>
+                            </Button>
+                            <Popup Name="allpop" 
+                                   AllowsTransparency="True" 
+                                   StaysOpen="True" 
+                                   PopupAnimation="Fade" 
+                                   IsOpen="{Binding AllIsOpen}" 
+                                   PlacementTarget="{Binding ElementName=All}" 
+                                   Placement="Bottom">
+                                <Label Style="{StaticResource tipLable}">
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="详细故障信息" Background="#cbf8ff"/>
+                                    </StackPanel>
+                                </Label>
+                            </Popup>
+                        </Grid>
+                        <ContentPresenter  Content="{Binding UserPieCharts}"/>
+                    </Grid>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>
