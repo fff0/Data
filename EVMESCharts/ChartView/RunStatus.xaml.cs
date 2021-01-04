@@ -36,7 +36,7 @@ namespace EVMESCharts.ChartView
             //PointLabel = chartPoint =>
             //    string.Format("{1:P}", chartPoint.Y, chartPoint.Participation);
             PointLabel = chartPoint =>
-               string.Format($"{Math.Floor(chartPoint.Y / 3600)}小时{Math.Floor((chartPoint.Y - (Math.Floor(chartPoint.Y / 3600) * 3600)) / 60)}分 {chartPoint.Participation:P}");
+               string.Format($"{Math.Floor(chartPoint.Y / 3600)}时{Math.Floor((chartPoint.Y - (Math.Floor(chartPoint.Y / 3600) * 3600)) / 60)}分 {chartPoint.Participation:P}");
 
             //添加初始化饼状图数据
             for (int i = 0; i < MainWindow.TimeList.Length; i++)
